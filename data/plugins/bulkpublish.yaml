@@ -1,0 +1,6 @@
+name: BulkPublish
+repo: https://github.com/azeemkafridi/opencode-bulkpublish
+tagline: Draft, schedule and publish social media posts from OpenCode Desktop
+description: Connect your BulkPublish account and post to X, Bluesky, Threads, Mastodon, LinkedIn, Instagram and more without leaving OpenCode Desktop. Live per-network character counts, image and video attachments, publish now, schedule or save a draft, and a recent-posts list with retry for failed posts.
+scope:
+  - global
